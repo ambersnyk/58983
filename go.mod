@@ -7,6 +7,7 @@ require (
 	github.com/oklog/ulid/v2 v2.1.0
 	github.com/pion/stun v0.6.1
 	github.com/rabbitmq/amqp091-go v1.8.1
+	gitlab.private.aws.cradlepointecm.com/netcloud/saas/ncm/common/go/cp-common v0.1.25
 	github.com/spf13/cobra v1.4.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.42.1
 )
