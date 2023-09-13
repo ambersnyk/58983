@@ -8,7 +8,6 @@ require (
 	github.com/pion/stun v0.6.1
 	github.com/rabbitmq/amqp091-go v1.8.1
 	github.com/spf13/cobra v1.4.0
-	gitlab.private.aws.cradlepointecm.com/netcloud/saas/ncm/common/go/cp-common v0.1.25
 	gopkg.in/DataDog/dd-trace-go.v1 v1.42.1
 )
 
